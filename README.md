@@ -18,5 +18,5 @@ If you have any projects you'd like to showcase, provide a brief description of 
 ## Contact Information
 Share how others can get in touch with you. You can include your email, social media profiles, or any other preferred method of contact.
 
-## Additional Information
+## Currently Exploring
 Include any other information you think might be relevant or interesting for readers to know.
