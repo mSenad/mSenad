@@ -1,8 +1,6 @@
 # Hi, I'm Senad! 👋
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=mSenad&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mSenad)]
+Enthusiastic Front-End Developer with a keen eye for detail and an appreciation for usability and accessibility.
 
 ## About Me
 Share some personal information about yourself, your interests, hobbies, and anything else you think is relevant.
