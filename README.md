@@ -1,7 +1,6 @@
 # Hi, I'm Senad! 👋 
-Enthusiastic Front-End Developer with a keen eye for detail and an appreciation for usability and accessibility.
 
-## About Me
+## Learn more about me
 Share some personal information about yourself, your interests, hobbies, and anything else you think is relevant.
 
 ## Skills
