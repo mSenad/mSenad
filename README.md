@@ -10,7 +10,7 @@ Share some personal information about yourself, your interests, hobbies, and any
 List your skills, expertise, or areas of knowledge.
 
 ## Tech Stack
-Describe the technologies you are proficient in or prefer to work with. This could include programming languages, frameworks, tools, etc.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,webstorm,tailwind,bootstrap,nextjs,react,ts,vercel,vite,mongodb,figma,firebase,githubactions,postman,redux,jquery,notion,ps)](https://skillicons.dev)
 
 ## Projects
 If you have any projects you'd like to showcase, provide a brief description of each and include links to their repositories or relevant websites.
