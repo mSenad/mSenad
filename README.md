@@ -1,7 +1,6 @@
 # Hi, I'm Senad! 👋
 
-## Introduction
-Introduce yourself briefly, mentioning your profession or what you're passionate about.
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=mSenad&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About Me
 Share some personal information about yourself, your interests, hobbies, and anything else you think is relevant.
