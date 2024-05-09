@@ -1,5 +1,4 @@
-# Hi, I'm Senad! 👋
-
+# Hi, I'm Senad! 👋 
 Enthusiastic Front-End Developer with a keen eye for detail and an appreciation for usability and accessibility.
 
 ## About Me
