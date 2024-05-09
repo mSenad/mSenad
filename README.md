@@ -1,4 +1,4 @@
-# [Your Name]
+# Hi, I'm Senad! 👋
 
 ## Introduction
 Introduce yourself briefly, mentioning your profession or what you're passionate about.
