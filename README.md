@@ -1,6 +1,6 @@
 # Hi, I'm Senad! 👋 
 
-## Learn more about me
+## About Me
 Share some personal information about yourself, your interests, hobbies, and anything else you think is relevant.
 
 ## Skills
